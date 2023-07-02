@@ -6,6 +6,8 @@
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=flat&logo=Spring Boot&logoColor=white" />
+	<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=RabbitMq&logoColor=white" />
+	<img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat&logo=Apache Kafka&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ IDEA&logoColor=white" />
@@ -14,6 +16,8 @@
 	<img src="https://img.shields.io/badge/Subversion-809CC9?style=flat&logo=Subversion&logoColor=white" />
 	<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white" />
 	<img src="https://img.shields.io/badge/Gitea-609926?style=flat&logo=Gitea&logoColor=white" />
+	<img src="https://img.shields.io/badge/Argo-EF7B4D?style=flat&logo=Argo&logoColor=white" />
+	<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white" />
 	<img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=Confluence&logoColor=white" />
 	<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" />
 </div>
