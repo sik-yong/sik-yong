@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=sik-yong%20github&fontSize=90)
 
 <div align=center>
