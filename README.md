@@ -7,13 +7,13 @@
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=flat&logo=Spring Boot&logoColor=white" />
 	<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ IDEA&logoColor=white" />
-	<img src="https://img.shields.io/badge/eclipseide-#2C2255?style=flat&logo=eclipseide&logoColor=white" />
-	<img src="https://img.shields.io/badge/linux-#FCC624?style=flat&logo=linux&logoColor=white" />
-	<img src="https://img.shields.io/badge/subversion-#809CC9?style=flat&logo=subversion&logoColor=white" />
-	<img src="https://img.shields.io/badge/github-#181717?style=flat&logo=github&logoColor=white" />
-	<img src="https://img.shields.io/badge/gitea-#609926?style=flat&logo=gitea&logoColor=white" />
-	<img src="https://img.shields.io/badge/confluence-#172B4D?style=flat&logo=confluence&logoColor=white" />
-	<img src="https://img.shields.io/badge/slack-#4A154B?style=flat&logo=slack&logoColor=white" />
+	<img src="https://img.shields.io/badge/eclipseide-#2C2255?style=flat&logo=Eclipse IDE&logoColor=white" />
+	<img src="https://img.shields.io/badge/linux-#FCC624?style=flat&logo=Linux&logoColor=white" />
+	<img src="https://img.shields.io/badge/subversion-#809CC9?style=flat&logo=Subversion&logoColor=white" />
+	<img src="https://img.shields.io/badge/github-#181717?style=flat&logo=Github&logoColor=white" />
+	<img src="https://img.shields.io/badge/gitea-#609926?style=flat&logo=Gitea&logoColor=white" />
+	<img src="https://img.shields.io/badge/confluence-#172B4D?style=flat&logo=Confluence&logoColor=white" />
+	<img src="https://img.shields.io/badge/slack-#4A154B?style=flat&logo=Slack&logoColor=white" />
 	
 </div>
 
