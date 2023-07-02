@@ -7,7 +7,7 @@
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=flat&logo=Spring Boot&logoColor=white" />
 	<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ IDEA&logoColor=white" />
-	<img src="https://img.shields.io/badge/eclipseide-#2C2255?style=flat&logo=Eclipse IDE&logoColor=white" />
+	<img src="https://img.shields.io/badge/Eclipse-#2C2255?style=flat&logo=Eclipse IDE&logoColor=white" />
 	<img src="https://img.shields.io/badge/linux-#FCC624?style=flat&logo=Linux&logoColor=white" />
 	<img src="https://img.shields.io/badge/subversion-#809CC9?style=flat&logo=Subversion&logoColor=white" />
 	<img src="https://img.shields.io/badge/github-#181717?style=flat&logo=Github&logoColor=white" />
